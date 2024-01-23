@@ -1,7 +1,7 @@
 # NLP-spaCy
 Fake or Real? Let's see!
 
-When I completed the spaCy library course, I really wanted to try out my knowledge in practice. I chose the [dataset](https://www.kaggle.com/datasets/rajatkumar30/fake-news)
+When I completed the spaCy library course, I really wanted to try out my knowledge in practice. I chose the dataset [click the link here](https://www.kaggle.com/datasets/rajatkumar30/fake-news)
 concerning the Real/Fake news prediction and tried out the modern advanced ML algorithm, CatBoost, with a text embedding to make accurate forecasts. 
 
 **The logic of my project is the following:**
