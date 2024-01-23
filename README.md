@@ -12,5 +12,5 @@ When I completed the spaCy library course, I really wanted to try out my knowled
 **The result:**
 The obtained accuracy of CatBoost was 92 and 91 for training and testing, respectively. 
 
-
+**The schematic of the project:**
 <image src="https://github.com/AlexeiRozhenko/NLP-spaCy/assets/136263079/b0e51c2a-aa8f-47e2-9ade-90dff9277ac9" width="800" height="450">
