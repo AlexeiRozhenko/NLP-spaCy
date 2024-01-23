@@ -2,6 +2,7 @@
 Fake or Real? Let's see!
 
 When I completed the spaCy library course, I really wanted to try out my knowledge in practice. Therefore, I chose the dataset concerning the real or fake news prediction and tried out classical ML algorithm, CatBoost, with a text embedding to make accurate forecasts. 
+
 **The logic of my project is the following:**
 1.	Some EDA to get acquainted with the data
 2.	Text cleaning (removing stop words, punctuation and uppercase)
