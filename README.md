@@ -5,8 +5,12 @@ When I completed the spaCy library course, I really wanted to try out my knowled
 concerning the Real/Fake news prediction and tried out the modern advanced ML algorithm, CatBoost, with a text embedding to make accurate forecasts. 
 
 **The result:**
-The obtained accuracy of CatBoost was 92% and 91% for training and testing, respectively. 
+The obtained accuracy of CatBoost was the F1-score of 89% with 1127 observations guessed correctly out of 1267. 
 
 **The logic of my project:**
 
 <image src="https://github.com/AlexeiRozhenko/NLP-spaCy/assets/136263079/b0e51c2a-aa8f-47e2-9ade-90dff9277ac9" width="800" height="450">
+
+**Remark** 
+
+Unfortunately, GitHub does not show Plotly graphs, but they are beautiful, trust me :)
