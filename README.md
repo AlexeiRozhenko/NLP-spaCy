@@ -5,7 +5,7 @@ When I completed the spaCy library course, I really wanted to try out my knowled
 concerning the Real/Fake news prediction and tried out the modern advanced ML algorithm, CatBoost, with a text embedding to make accurate forecasts. 
 
 **The result:**
-The obtained accuracy of CatBoost was the F1-score of 89% with 1127 observations guessed correctly out of 1267. 
+The obtained accuracy of CatBoost was the F1-score of 89% with 1122 observations guessed correctly out of 1267. 
 
 **The logic of my project:**
 
